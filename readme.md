@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocketlyz)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Quick Start
 
 ### Blogs built with [HEXO](https://hexo.io/docs/github-pages)
